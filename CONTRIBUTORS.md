@@ -9337,6 +9337,8 @@ cl# CONTRIBUTORS
 
 -[@kaikencode](https://github.com/kaikencode)
 
+- [@FJSDO] https://github.com/FJSDO
+
 -[@Jlloppez](https://github.com/Jlloppez)
 
 -[@Matheus7253](https://github.com/Matheus7253)
@@ -9346,3 +9348,5 @@ cl# CONTRIBUTORS
 -[@Darya-STRONG](https://github.com/Darya-STRONG)
 
 -[@AhmedMalekX](https://github.com/AhmedMalekX)
+
+-[@kevintata](https://github.com/kevintata)
