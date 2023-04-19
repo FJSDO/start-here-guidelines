@@ -7315,6 +7315,8 @@ cl# CONTRIBUTORS
 
 - [@Wjrempelos](https://github.com/Wjrempelos)
 
+- [@Kezzzah](https://github.com/Kezzzah)
+
 - [@LIJOMLOYID](https://github.com/LIJOMLOYID)
 
 - [@ClaireKarsenti](https://github.com/ClaireKarsenti)
@@ -9336,3 +9338,11 @@ cl# CONTRIBUTORS
 -[@kaikencode](https://github.com/kaikencode)
 
 -[@Jlloppez](https://github.com/Jlloppez)
+
+-[@Matheus7253](https://github.com/Matheus7253)
+
+-[@mohiniagarwal08](https://github.com/mohiniagarwal08)
+
+-[@Darya-STRONG](https://github.com/Darya-STRONG)
+
+-[@AhmedMalekX](https://github.com/AhmedMalekX)
